@@ -135,3 +135,11 @@ button{
 .result h1{
 margin-bottom: 30px;
 }
+.heading{
+    font-size: 25px;
+    font-family:  sans-serif;
+    text-shadow: 5px 5px 5px rgb(184, 180, 180);
+/* font-weight: lighter; */
+letter-spacing: 3px;
+    transition: 1.5s;
+}
